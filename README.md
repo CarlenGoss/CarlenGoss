@@ -21,5 +21,5 @@ Me especializo en la administración de sistemas Linux, la automatización de pr
 ---
 
 ### 📫 Conectemos
-* **LinkedIn:** [Tu enlace aquí]
-* **Email:** [Tu correo aquí]
+* **LinkedIn:** https://www.linkedin.com/in/carlengosez?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* **Email:** carlengosez@gmail.com
