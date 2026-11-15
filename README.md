@@ -33,10 +33,5 @@ I am always open to discussing Linux, open-source development, IT infrastructure
 * **LinkedIn:** [linkedin.com/in/carlengosez](https://www.linkedin.com/in/carlengosez)
 * **GitHub:** [github.com/CarlenGoss](https://github.com/CarlenGoss)
 
-Email: carlengosez@gmail.com
-
-LinkedIn: linkedin.com/in/carlengosez
-
-GitHub: github.com/CarlenGoss
 
 Open source enthusiast. Always learning, always building.
